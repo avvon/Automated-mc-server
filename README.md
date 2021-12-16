@@ -1,9 +1,9 @@
 # Automated-mc-server
-Downloads and runs minecraft paper 1.16.5 server
+Downloads and runs minecraft paper minecraft server
 
 Simply cd into the folder Automated-mc-server and run the command, "sudo bash (version).sh"
 
-After this is will ask you to agree to the eula, cd into the folder, "MC", open "eula.txt" in a text editor e.x vim.
+After this is will ask you to agree to the eula, cd into the folder, "MC", open "eula.txt" in a text editor e.x vim, nano.
 Change eula=False to eula=True.
 (you may also want to change the seed, gamemode, render distance etc in server.properties)
 
