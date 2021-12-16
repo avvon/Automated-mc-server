@@ -1,4 +1,4 @@
-# Automated-mc-server
+# Tutorial 
 Downloads and runs minecraft paper minecraft server
 
 Simply cd into the folder Automated-mc-server and run the command, "sudo bash (version).sh"
@@ -8,3 +8,5 @@ Change eula=False to eula=True.
 (you may also want to change the seed, gamemode, render distance etc in server.properties)
 
 After you make any tweaks you want, bash "run.sh".
+
+
