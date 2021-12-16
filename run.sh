@@ -2,4 +2,7 @@
 
 cd MC
 
-sudo java -Xmx3072M -Xms3072M -jar paper-1.16.5-778.jar -nogui
+echo "What is the name of the .jar file?"
+read file
+
+sudo java -Xmx3072M -Xms3072M -jar $file -nogui
