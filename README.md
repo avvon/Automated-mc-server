@@ -8,5 +8,3 @@ Change eula=False to eula=True.
 (you may also want to change the seed, gamemode, render distance etc in server.properties)
 
 After you make any tweaks you want, bash "run.sh".
-
-
