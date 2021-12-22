@@ -10,4 +10,4 @@ Change eula=False to eula=True.
 After you make any tweaks you want, bash "run.sh".
 
 
-https://www.youtube.com/watch?v=UkKRHV1Lhas&t=62s
+https://youtu.be/UkKRHV1Lhas
