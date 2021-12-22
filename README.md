@@ -1,5 +1,5 @@
 # Tutorial 
-<h1>Downloads and runs minecraft paper minecraft server</h1>
+<h2>Downloads and runs minecraft paper minecraft server</h2>
 
 Simply cd into the folder Automated-mc-server and run the command, "sudo bash (version).sh"
 
