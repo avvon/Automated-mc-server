@@ -1,5 +1,5 @@
 # Tutorial 
-<h1>Downloads and runs minecraft paper minecraft server</h1>
+<h3>Downloads and runs minecraft paper minecraft server</h3>
 
 Simply cd into the folder Automated-mc-server and run the command, "chmod +x (version).sh; sudo ./(version).sh"
 
