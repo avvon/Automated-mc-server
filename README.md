@@ -1,6 +1,8 @@
 # Tutorial 
 <h3>Downloads and runs a minecraft server of your choice</h3>
 
+<h4>Make sure you have the package openjdk-17-jre.</h4>
+
 Simply cd into the folder Automated-mc-server and run the command, "chmod +x (version).sh; sudo ./(version).sh"
 
 After this is will ask you to agree to the eula, cd into the folder, "MC", open "eula.txt" in a text editor e.x vim, nano.<br>
